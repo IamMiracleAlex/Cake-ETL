@@ -1,0 +1,242 @@
+entry|cake_diameter|diam_unit|flavor|is_cake_vegan
+1|21.8830537inches||RED|FALSE
+2|13.75| in|Strawberry|Strawberry
+3|480|||FALSE
+4|9.8690561|inches|BUTTER|NO
+5|17.98|in |Avocado Cake|0
+6|251.95554|mm|butter|
+7|186.9 mm|mm|Babka|
+8|283.5 mm||Chiffon Cake|FALSE
+9|293.04925 mm|MM|chocolate|N/A
+10|451.4 MM|mm|chokolade|N/A
+11|418.4|mm|avocado|yes
+12|15.96|inches|Chiffon Cake|
+13|24.04in|inches|Strawberry|no
+14|24.777824|inches|Caramel Cake|FALSE
+15|231.3mm||BISCUIT|NO
+16|15.21|in|BLACKFOREST|Y
+17|492.28463 mm|mm|avocado|N/A
+18|7.9989575|inches|VANILLA|FALSE
+19|"2.43"""|""""|Chiffon Cake|
+20|16.7502938|inches|rainbow|t
+21|514|mm|biscuit|N/A
+22|12.64|inches||0
+23|360|millimeters|Strawbery|
+24|"5.81"""|""""|Chiffon|FALSE
+25|6.3082326|in|BLACKFOREST|6
+26|435.99012||APFEL|
+27|175 mm|mm|N/A|
+28|398.01697 millimeters|mm|butter|
+29|211.37809|mm|Avocado|Y
+30|23.300681||Chiffon|blue
+31|588.7|mm|Strawbery|
+32|518mm|mm|CARAMEL|
+33|4.8|inches|chokolade|
+34|301||baunilha|N/A
+35|12.58||N/A|NO
+36|13.77 in|inches|vanilla|NO
+37|171.53843mm|mm|butter|FALSE
+38|342.8|mm|VANILLA|
+39|513.8 millimeters|mm|N/A|no
+40|14.3|in|BUTTER|
+41|382.0|mm|vanilla cake|no
+42|196 mm|inches|apple pie|
+43|534.4mm||APFEL|YES
+44|432.3|mm|Avocado Cake|
+45|537.21803|mm|sponge|
+46|16.75|inches|butter cake|NO
+47|21.8325634|inches|apple pie|partially
+48|196.82931 millimeters|mm||FALSE
+49|9.72|inches|chokolade|
+50|10.66 inches||BUTTER|TRUE
+51|223||baunilha|FALSE
+52|15.73|inches||
+53|6.21|inches|apple|FALSE
+54|558.53092 mm|mm|CREAM|
+55|473.5mm|inches|vanilla|
+56|163mm|millimeters|Strawberry|
+57|6.89|inches|biscuit|N/A
+58|534.9|millimeters|RED|0
+59|581|mm|Avocado|FALSE
+60|556.2mm||Chiffon Cake|1
+61|0.65||vanilla cake|
+62|14.83|inches|Caramel Cake|
+63|314.04175|mm|Caramel|0
+64|394 MM|inches|sponge|6
+65|551||choc|YES
+66|562.22131 mm||apple pie|N/A
+67|248|mm|Caramel|f
+68|9.9470194 inches|inches|cream|0
+69|456|mm|b. forest|
+70|8.68881|inches|biscuit |FALSE
+71|392|mm|CREAM|yes
+72|280||Chiffon|
+73|437.0071 mm||RED|N
+74|230|mm|carrot|yes
+75|1.26in|inches||FALSE
+76|18.7621759|inches|BLACKFOREST|YES
+77|"23.25"""|in|caramel|
+78|16.59|inches|vanilla|-1
+79|10.31 inches|mm|butter cake|YES
+80|12.81||rainbow|
+81|12.8||sponge|no
+82|466.9|mm|biscuit |no
+83|"19.8874942"""||APPLE|NO
+84|13.33in||carrot|
+85|11.74||vanilla cake|N/A
+86|1.2686032|inches|Strawbery|
+87|11.75 inch||strawbery|TRUE
+88|18.57|inches||N
+89|7.45 inch||b. forest|6
+90|369.5mm|||N/A
+91|"6.5824703"""|in|Caramel Cake|
+92|9.31||b. forest|N/A
+93|test|test|Strawbery|Not sure
+94|429.11287||apple pie|no
+95|553|mm|chocolate|N/A
+96|298.01697 millimeters|mm|butter|not in the slightest!!
+97|7.97inches|inches|biscuit|
+98|268||CREAM|no
+99|575|MM|APPLE|
+100|6.19inch|inches||6
+101|187.49519||carrot|
+102|364.54837|mm|Caramel Cake|
+103|202.1mm||caramel|
+104|166.2|    |BISCUIT|NO
+105|5.3301284|inches|CREAM|
+106|16.36|inches|chocolate|FALSE
+107|211.9 millimeters|mm|APPLE|
+108|10.2inch|inches|apple|
+109|329|mm|rainbow|N/A
+110|22.19|inches  |Chiffon|
+111|5.1604952|inches|rainbow|
+112|18.92762in|18.92762in|18.92762in|18.92762in
+113|167.33247|mm|14|
+114|"5.8846421 """|in|strawbery|
+115|432||SWBERRY|
+116|432||apple|0
+117|17.63|in||
+118|3.8251793|inches|caramel|f
+119|24.6356199|inches|Avocado|Y
+120|356.20528||biscuit|NO
+121|328.03988mm||butter|N/A
+122|17.64 inch|inches|chocolate|
+123|"12.78 """|inches||FALSE
+124|22.21 inch|inches|CREAM|NO
+125|295.56098 millimeters||BLACKFOREST|6
+126|10.8 inches|mm||no
+127|429 mm|mm|CREAM|0
+128|13.43|in|black forest|
+129|fill this info later|inches||FALSE
+130|6.9251056|inches|strawbery|
+131|266.2|mm|black forest|0.1
+132|12.3453057|inches|SWBERRY|NO
+133|16.34 in|||NO
+134|"23.28"""|inches||
+135|456.1|mm|BUTTER_CAKE|yes
+136|22.590211|inches|APPLE|
+137|251|mm|Avocado Cake|Y
+138|4.71|inches|Caramel Cake|FALSE
+139|"24.09"""|inches||f
+140|218.24368|mm|vanilla|N
+141|0.2m|m|carrot|yes
+142|22.93m|inches|avocado|
+143|19.19|inches|black forest|no
+144|"18.7984662"""|in|SWBERRY|
+145|266|millimeters|Caramel|FALSE
+146|599.78417|MM|BISCUIT|
+147|42.11287|cake|apple pie|no
+148|166.941|mm|apple pie|FALSE
+149|19.79|inches|RED|
+150|22.69|in|BISCUIT|1
+151|273.1|mm|BUTTER_CAKE|f
+152|"21.9 """|inches|Avocado Cake|6
+153|421.1|mm|Strawbery|
+154|3.49|inches|butter|
+155|very large||butter|
+156|227|millimeters|SWBERRY|N
+157|534.6mm|mm|biscuit |Y
+158|"24.3589237"""|inches|choc|FALSE
+159|2.85 in|inches|BLACKFOREST|TRUE
+160|5.16 inch|inches||NO
+161|35.328749||vanilla cake|
+162|496.53185|millimeters|sponge|
+163|528.96386 MM||Chiffon Cake|FALSE
+164|"12.8"""||Caramel Cake|t
+165|174.55053|mm|apple|Y
+166|3.1982887 inches|inches|avocado|
+167|189.6|millimeters|BISCUIT|
+168|266|MM|chokolade|no
+169|8.2284843 inches|inches|black forest|NO
+170|23.75|inches|Chiffon Cake|0
+171|591.00988 millimeters|MM|BLACKFOREST|0
+172|17.5759116inch|inches|vanilla|f
+173|428.31116 millimeters|inches|BISCUIT|
+174|24.4502541|inches||
+175|351|millimeters|carrot|N/A
+176|14.31|inches|APPLE|N/A
+177|14.153215|in|butter|t
+178|214.61343mm|MM|Avocado Cake|yes
+179|265||BUTTER_CAKE|N/A
+180|11.23inches|mm |biscuit |0
+181|371|mm|BUTTER|FALSE
+182|214|millimeters|Strawbery|
+183|21.33||baunilha|
+184|260 millimeters|mm|rainbow|
+185|12.48|inches|cream|N/A
+186|230.33024|millimeters|N/A|
+187|196.3||BUTTER_CAKE|0
+188|13.96inches|inches||no
+189|2|average human head||no
+190|15.0069184|inches |Avocado Cake|6
+191|275.54087||chokolade|14
+192|571|mm|Chiffon|no
+193|21.4084627|inches|Chiffon Cake|
+194|488.9 MM|mm|BLACKFOREST|NO
+195|425.8|mm|apple pie|0
+196|319.5|mm|BUTTER|0
+197|0.1719|meters|RED|
+198|56.640123||baunilha|
+199|335.68962 MM||SWBERRY|FALSE
+200|514.2||chocolate|NO
+201|402|mm|biscuit|
+202|313|millimeters| biscuit |0
+203|4.7152478||VANILLA |
+204|504||biscuit |
+205|2.1631699|in|Strawbery|
+206|13.9in|inches|biscuit |
+207|292|mm|APFEL |FALSE
+208|9.2043963|in|strawbery|
+209|22.24 in|""""|carrot|0
+210|250.04218||carrot|0
+211|18.0199549|inches|Chiffon|NO
+212|16.62|inches|avocado|FALSE
+213|14.07|""""|rainbow|Y
+214|301.7|mm|SWBERRY|TRUE
+215|2.6792519inches|inches|strawbery|
+216|11.8875088|inches|b. forest|no
+217|2.83|inches|chokolade|no
+218|10.54|in|black forest|
+219|505||choc|6
+220|519385039|millimeters|carrot|NO
+221|518.40178|mm|Avocado|f
+222|23.8636638inches|inches|apple|FALSE
+223|21.9175111|inches|CREAM|TRUE
+224|14.73|inches||
+225|3.42|inches|RED|f
+226|2.57inches|mm||inches
+227|219mm|millimeters|sponge|
+228|22.9384568|inches|BUTTER|NO
+229|21.48in|inches|Avocado Cake|NO
+230|9.05 inch| inches||no
+231|198 millimeters|inches|biscuit |1
+232|0.5542|m|Babka|
+233|588.6 millimeters|mm|carrot|f
+234|440.2|mm|APFEL|
+235|13.11|inches |caramel|yes
+236|555.18474|millimeters|avocado|
+237|308.1 MM|mm|APFEL|NO
+238|249.6|mm|Chiffon Cake|N/A
+239|162.3 mm|MM|Avocado Cake|NO
+240|351.79509|mm|butter|FALSE
+241|23.5|inches|BLACKFOREST|
